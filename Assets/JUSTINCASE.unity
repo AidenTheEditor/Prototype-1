@@ -4160,6 +4160,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f5e634fec30debe40923ded17cad6721, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  offset: {x: 0, y: 5, z: -7}
+  speed: 5
+  horizontallinput: 0
+  forwardInput: 0
 --- !u!4 &2114843821 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 436868, guid: 70bf34f6c25c948458f254e87188b00b,
